@@ -42,28 +42,44 @@
             },
             "projects": [
                 {
-                    "title": "Spotify Clone",
-                    "description": "Este projeto é um clone do Spotify que recria a interface de usuário com HTML, CSS e JavaScript.",
+                    "title": "Comics Marvel Store",
+                    "description": "E-commerce de quadrinhos React que consome a API Comic Vine. Usa Redux Toolkit para gerenciamento de estado e Styled Components. Destaque para a arquitetura com Docker, NGINX e testes E2E completos com Cypress, garantindo um pipeline robusto.",
+                    "technologies": [
+                        "React.js",
+                        "Redux Toolkit",
+                        "JavaScript",
+                        "API REST",
+                        "Styled Components",
+                        "Cypress",
+                        "Docker"
+                    ],
+                    "image_path": "https://github.com/brunotxrs/bruno-txrs/blob/main/src/assets/imgs/projects/comics-marvel-store.gif",
+                    "production_link": "https://comics-marvel-store.vercel.app/",
+                    "github_link": "https://github.com/brunotxrs/comics-marvel-store"
+                },
+                {
+                    "title": "Search Movies",
+                    "description": "Aplicação de busca de filmes e séries totalmente interativa. Consome a API TMDB, com funcionalidades robustas como filtro por gênero, lista de tendências, detalhes aprofundados e reprodução de trailers. Desenvolvida em HTML, CSS e JavaScript puro e modularizado.",
                     "technologies": [
                         "HTML",
                         "CSS",
                         "JavaScript"
                     ],
-                    "image_path": "/images/spotify-clone.gif",
-                    "production_link": "https://bruno-teixeira-dev.github.io/spotify-clone/",
-                    "github_link": "https://github.com/bruno-teixeira-dev/spotify-clone"
+                    "image_path": "https://github.com/brunotxrs/bruno-txrs/blob/main/src/assets/imgs/projects/search-movies.gif",
+                    "production_link": "https://brunotxrs.github.io/Search-Movies/",
+                    "github_link": "https://github.com/brunotxrs/Search-Movies"
                 },
                 {
-                    "title": "E-commerce Front-End",
-                    "description": "Uma página de e-commerce totalmente responsiva desenvolvida com React e Redux para o gerenciamento de estado.",
+                    "title": "Spotify Clone",
+                    "description": "Clone da interface do Spotify desenvolvido na Imersão Alura. Construído com HTML, CSS (Grid/Flexbox) e JavaScript, seguindo a abordagem Mobile-First para garantir total responsividade em todos os dispositivos.",
                     "technologies": [
-                        "React",
-                        "Redux",
-                        "Sass"
+                        "HTML",
+                        "CSS",
+                        "JavaScript"
                     ],
-                    "image_path": "/images/ecommerce.gif",
-                    "production_link": "https://bruno-teixeira-dev.github.io/ecommerce/",
-                    "github_link": "https://github.com/bruno-teixeira-dev/ecommerce-repo"
+                    "image_path": "https://github.com/brunotxrs/bruno-txrs/blob/main/src/assets/imgs/projects/spotify-clone.gif",
+                    "production_link": "https://brunotxrs.github.io/Spotify-Clone/",
+                    "github_link": "https://github.com/brunotxrs/Spotify-Clone"
                 }
             ],
             "certificates": [
@@ -117,28 +133,44 @@
             },
             "projects": [
                 {
-                    "title": "Spotify Clone",
-                    "description": "This project is a Spotify clone that recreates the user interface using HTML, CSS, and JavaScript.",
+                    "title": "Comics Marvel Store",
+                    "description": "React comics e-commerce consuming the Comic Vine API. Utilizes Redux Toolkit for state management and Styled Components. Features a robust pipeline with Docker, NGINX, and comprehensive E2E testing with Cypress.",
+                    "technologies": [
+                        "React.js",
+                        "Redux Toolkit",
+                        "JavaScript",
+                        "API REST",
+                        "Styled Components",
+                        "Cypress",
+                        "Docker"
+                    ],
+                    "image_path": "https://github.com/brunotxrs/bruno-txrs/blob/main/src/assets/imgs/projects/comics-marvel-store.gif",
+                    "production_link": "https://comics-marvel-store.vercel.app/",
+                    "github_link": "https://github.com/brunotxrs/comics-marvel-store"
+                },
+                {
+                    "title": "Search Movies",
+                    "description": "Fully interactive movie and TV show search application. Consumes the TMDB API, featuring robust functionalities like genre filtering, trending lists, in-depth details, and trailer playback. Developed using pure and modularized HTML, CSS, and JavaScript.",
                     "technologies": [
                         "HTML",
                         "CSS",
                         "JavaScript"
                     ],
-                    "image_path": "/images/spotify-clone.gif",
-                    "production_link": "https://bruno-teixeira-dev.github.io/spotify-clone/",
-                    "github_link": "https://github.com/bruno-teixeira-dev/spotify-clone"
+                    "image_path": "https://github.com/brunotxrs/bruno-txrs/blob/main/src/assets/imgs/projects/search-movies.gif",
+                    "production_link": "https://brunotxrs.github.io/Search-Movies/",
+                    "github_link": "https://github.com/brunotxrs/Search-Movies"
                 },
                 {
-                    "title": "E-commerce Front-End",
-                    "description": "A fully responsive e-commerce page developed with React and Redux for state management.",
+                    "title": "Spotify Clone",
+                    "description": "Spotify interface clone developed during Alura Immersion. Built with HTML, CSS (Grid/Flexbox), and JavaScript, utilizing a Mobile-First approach to ensure full responsiveness across all devices.",
                     "technologies": [
-                        "React",
-                        "Redux",
-                        "Sass"
+                        "HTML",
+                        "CSS",
+                        "JavaScript"
                     ],
-                    "image_path": "/images/ecommerce.gif",
-                    "production_link": "https://bruno-teixeira-dev.github.io/ecommerce/",
-                    "github_link": "https://github.com/bruno-teixeira-dev/ecommerce-repo"
+                    "image_path": "https://github.com/brunotxrs/bruno-txrs/blob/main/src/assets/imgs/projects/spotify-clone.gif",
+                    "production_link": "https://brunotxrs.github.io/Spotify-Clone/",
+                    "github_link": "https://github.com/brunotxrs/Spotify-Clone"
                 }
             ],
             "certificates": [
