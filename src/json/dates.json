@@ -1,0 +1,228 @@
+{
+    "languages": {
+        "pt": {
+            "introduction": {
+                "first_title": "Eu sou",
+                "name": "Bruno Teixeira",
+                "second_title": "Desenvolvedor Front End"
+            },
+            "about_me": {
+                "paragraph_one": "Desenvolvedor Front-End apaixonado por transformar ideias em soluções web atraentes e funcionais.",
+                "paragraph_two": "Sou um profissional que valoriza a inovação, o aprendizado contínuo e a colaboração em projetos que exigem criatividade e excelência técnica.",
+                "paragraph_three": "Siga abaixo para conferir as minhas: Habilidades e Projetos."
+            },
+            "sections_titles": {
+                "skills_title": "Habilidades em Tecnologias",
+                "soft_skills_title": "Habilidades Pessoais",
+                "academic_history_title": "Formação Acadêmica",
+                "certificates_title": "Certificados",
+                "projects_title": "Projetos",
+                "comments_title": "Mural de comentários"
+            },
+            "skills_soft": {
+                "soft": [
+                    "Resolução de problemas",
+                    "Trabalho em equipe",
+                    "Comunicação",
+                    "Adaptabilidade",
+                    "Liderança"
+                ]
+            },
+            "certificates_academic": {
+                "list": [
+                    {
+                        "id": 1,
+                        "name": "Técnico em Desenvolvimento de Sistemas",
+                        "institution": "Serviço Nacional de Aprendizagem Comercial - Rio Grande do Sul - SENAC RS",
+                        "period": "2025 - 2026",
+                        "description": "Técnico em Desenvolvimento de Sistemas prepara você a exercer funções técnicas, como: administração do sistema de banco de dados, desenvolver software, programar rotinas de sistema utilizando linguagens e técnicas de programação, programação de sistemas para desktop e para web, entre outras atividades.",
+                        "logo": ""
+                    }
+                ]
+            },
+            "projects": [
+                {
+                    "title": "Spotify Clone",
+                    "description": "Este projeto é um clone do Spotify que recria a interface de usuário com HTML, CSS e JavaScript.",
+                    "technologies": [
+                        "HTML",
+                        "CSS",
+                        "JavaScript"
+                    ],
+                    "image_path": "/images/spotify-clone.gif",
+                    "production_link": "https://bruno-teixeira-dev.github.io/spotify-clone/",
+                    "github_link": "https://github.com/bruno-teixeira-dev/spotify-clone"
+                },
+                {
+                    "title": "E-commerce Front-End",
+                    "description": "Uma página de e-commerce totalmente responsiva desenvolvida com React e Redux para o gerenciamento de estado.",
+                    "technologies": [
+                        "React",
+                        "Redux",
+                        "Sass"
+                    ],
+                    "image_path": "/images/ecommerce.gif",
+                    "production_link": "https://bruno-teixeira-dev.github.io/ecommerce/",
+                    "github_link": "https://github.com/bruno-teixeira-dev/ecommerce-repo"
+                }
+            ],
+            "certificates": [
+                {
+                    "name": "Certificado Alura",
+                    "image_path": "caminho/caminho/image_certificado-alura",
+                    "description": "Conclusão do curso de Fundamentos de Front-End.",
+                    "link": "https://cursos.alura.com.br/certificate/..."
+                }
+            ]
+        },
+        "en": {
+            "introduction": {
+                "first_title": "I'm",
+                "name": "Bruno Teixeira",
+                "second_title": "Front-End Developer"
+            },
+            "about_me": {
+                "paragraph_one": "A Front-End Developer passionate about transforming ideas into attractive and functional web solutions.",
+                "paragraph_two": "I'm a professional who values innovation, continuous learning and collaboration on projects that demand creativity and technical excellence.",
+                "paragraph_three": "Follow below to check my: Skills and Projects."
+            },
+            "sections_titles": {
+                "skills_title": "Tech Skills",
+                "soft_skills_title": "Soft Skills",
+                "academic_history_title": "Academic History",
+                "certificates_title": "Certificates",
+                "projects_title": "Projects",
+                "comments_title": "Comment wall"
+            },
+            "skills_soft": {
+                "soft": [
+                    "Problem solving",
+                    "Teamwork",
+                    "Communication",
+                    "Adaptability",
+                    "Leadership"
+                ]
+            },
+            "certificates_academic": {
+                "list": [
+                    {
+                        "id": 1,
+                        "name": "Systems Development Technician",
+                        "institution": "Serviço Nacional de Aprendizagem Comercial - Rio Grande do Sul - SENAC RS",
+                        "period": "2025 - 2026",
+                        "description": "The Systems Development Technician prepares you to perform technical functions such as: database system administration, software development, programming system routines using programming languages and techniques, programming systems for desktop and web, among other activities.",
+                        "logo": ""
+                    }
+                ]
+            },
+            "projects": [
+                {
+                    "title": "Spotify Clone",
+                    "description": "This project is a Spotify clone that recreates the user interface using HTML, CSS, and JavaScript.",
+                    "technologies": [
+                        "HTML",
+                        "CSS",
+                        "JavaScript"
+                    ],
+                    "image_path": "/images/spotify-clone.gif",
+                    "production_link": "https://bruno-teixeira-dev.github.io/spotify-clone/",
+                    "github_link": "https://github.com/bruno-teixeira-dev/spotify-clone"
+                },
+                {
+                    "title": "E-commerce Front-End",
+                    "description": "A fully responsive e-commerce page developed with React and Redux for state management.",
+                    "technologies": [
+                        "React",
+                        "Redux",
+                        "Sass"
+                    ],
+                    "image_path": "/images/ecommerce.gif",
+                    "production_link": "https://bruno-teixeira-dev.github.io/ecommerce/",
+                    "github_link": "https://github.com/bruno-teixeira-dev/ecommerce-repo"
+                }
+            ],
+            "certificates": [
+                {
+                    "name": "Alura Certificate",
+                    "image_path": "caminho/caminho/image_certificado-alura",
+                    "description": "Successful completion of the Front-End Fundamentals course.",
+                    "link": "https://cursos.alura.com.br/certificate/..."
+                }
+            ]
+        }
+    },
+    "tech_logos": {
+        "tech": [
+            {
+                "id": 1,
+                "name": "HTML5",
+                "logo": "https://github.com/brunotxrs/bruno-txrs/blob/main/src/assets/imgs/techs/html-5.png"
+            },
+            {
+                "id": 2,
+                "name": "CSS3",
+                "logo": "https://github.com/brunotxrs/bruno-txrs/blob/main/src/assets/imgs/techs/css-3.png"
+            },
+            {
+                "id": 3,
+                "name": "JavaScript",
+                "logo": "https://github.com/brunotxrs/bruno-txrs/blob/main/src/assets/imgs/techs/js.png"
+            },
+            {
+                "id": 4,
+                "name": "React.js",
+                "logo": "https://github.com/brunotxrs/bruno-txrs/blob/main/src/assets/imgs/techs/react.png"
+            },
+            {
+                "id": 5,
+                "name": "Git",
+                "logo": "https://github.com/brunotxrs/bruno-txrs/blob/main/src/assets/imgs/techs/git.png"
+            },
+            {
+                "id": 6,
+                "name": "GitHub",
+                "logo": "https://github.com/brunotxrs/bruno-txrs/blob/main/src/assets/imgs/techs/github.png"
+            },
+            {
+                "id": 7,
+                "name": "Figma",
+                "logo": "https://github.com/brunotxrs/bruno-txrs/blob/main/src/assets/imgs/techs/figma.png"
+            },
+            {
+                "id": 8,
+                "name": "Java",
+                "logo": "https://github.com/brunotxrs/bruno-txrs/blob/main/src/assets/imgs/techs/java.png"
+            },
+            {
+                "id": 9,
+                "name": "PHP",
+                "logo": "https://github.com/brunotxrs/bruno-txrs/blob/main/src/assets/imgs/techs/php.png"
+            },
+            {
+                "id": 10,
+                "name": "MySQL",
+                "logo": "https://github.com/brunotxrs/bruno-txrs/blob/main/src/assets/imgs/techs/mysql.png"
+            },
+            {
+                "id": 11,
+                "name": "MongoDB",
+                "logo": "https://github.com/brunotxrs/bruno-txrs/blob/main/src/assets/imgs/techs/mongodb.png"
+            },
+            {
+                "id": 12,
+                "name": "Firebase",
+                "logo": "https://github.com/brunotxrs/bruno-txrs/blob/main/src/assets/imgs/techs/firebase.png"
+            },
+            {
+                "id": 13,
+                "name": "Cypress",
+                "logo": "https://github.com/brunotxrs/bruno-txrs/blob/main/src/assets/imgs/techs/cypress.png"
+            },
+            {
+                "id": 14,
+                "name": "Docker",
+                "logo": "https://github.com/brunotxrs/bruno-txrs/blob/main/src/assets/imgs/techs/docker.png"
+            }
+        ]
+    }
+}
