@@ -84,10 +84,16 @@
             ],
             "certificates": [
                 {
-                    "name": "Certificado Alura",
-                    "image_path": "caminho/caminho/image_certificado-alura",
-                    "description": "Conclusão do curso de Fundamentos de Front-End.",
-                    "link": "https://cursos.alura.com.br/certificate/..."
+                    "name": "Santander Front-End 2025",
+                    "image_path": "https://github.com/brunotxrs/bruno-txrs/blob/main/src/assets/imgs/certificates/santander-fron-end-2025.png",
+                    "description": "Conclusão do programa Santander 2025 - Front-End. Domínio da trinca HTML, CSS (Flexbox/Grid) e JavaScript, com foco em desenvolvimento web responsivo e dinâmico. O bootcamp incluiu a criação de 10 projetos práticos e o trabalho com APIs/requisições assíncronas.",
+                    "link": "https://www.dio.me/certificate/CPO9CDGV/share"
+                },
+                {
+                    "name": "Imersão Front-End 2ª Edição",
+                    "image_path": "https://github.com/brunotxrs/bruno-txrs/blob/main/src/assets/imgs/certificates/imersao-front-end-alura.png",
+                    "description": "Conclusão da 2ª Edição da Imersão Front-End da Alura (5h), focada em construir projetos responsivos e dinâmicos. Consolidou conhecimentos essenciais em HTML, CSS (Flexbox/Grid) e JavaScript para desenvolvimento de interfaces modernas.",
+                    "link": "https://cursos.alura.com.br/immersion/certificate/47291374-3310-4b88-89dc-fa1555143467?lang" 
                 }
             ]
         },
@@ -175,10 +181,16 @@
             ],
             "certificates": [
                 {
-                    "name": "Alura Certificate",
-                    "image_path": "caminho/caminho/image_certificado-alura",
-                    "description": "Successful completion of the Front-End Fundamentals course.",
-                    "link": "https://cursos.alura.com.br/certificate/..."
+                    "name": "Santander Front-End 2025",
+                    "image_path": "https://github.com/brunotxrs/bruno-txrs/blob/main/src/assets/imgs/certificates/santander-fron-end-2025.png",
+                    "description": "Successful completion of the Santander 2025 - Front-End program. Mastered the core trio: HTML, CSS (Flexbox/Grid), and JavaScript, with a focus on responsive and dynamic web development. The bootcamp included 10 practical projects and work with APIs/asynchronous requests.",
+                    "link": "https://www.dio.me/certificate/CPO9CDGV/share"
+                },
+                {
+                    "name": "Imersão Front-End 2ª Edição",
+                    "image_path": "https://github.com/brunotxrs/bruno-txrs/blob/main/src/assets/imgs/certificates/imersao-front-end-alura.png",
+                    "description": "Completion of Alura's 2nd Front-End Immersion (5h), focused on building responsive and dynamic projects. Consolidated essential knowledge in HTML, CSS (Flexbox/Grid), and JavaScript for modern interface development.",
+                    "link": "https://cursos.alura.com.br/immersion/certificate/47291374-3310-4b88-89dc-fa1555143467?lang" 
                 }
             ]
         }
@@ -256,5 +268,10 @@
                 "logo": "https://github.com/brunotxrs/bruno-txrs/blob/main/src/assets/imgs/techs/docker.png"
             }
         ]
+    },
+    "emblems": {
+        "santander-frontend-2025": "https://github.com/brunotxrs/bruno-txrs/blob/main/src/assets/imgs/emblems/santander-fronend.webp",
+        "imersao-front-end-alura": "https://github.com/brunotxrs/bruno-txrs/blob/main/src/assets/imgs/emblems/imersao-front-end-alura.png"
     }
+    
 }
